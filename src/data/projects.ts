@@ -39,8 +39,8 @@ export const projectsData: Project[] = [
     "SQLite"
   ],
   image: "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800",
-  github: "YOUR_GITHUB_LINK",
-  demo: "#",
+  github: "https://github.com/Nathiyajanarthanan/wayconnect",
+  demo: "https://wayconnect-frontend.onrender.com",
   features: [
     "User authentication system",
     "Responsive web interface",
@@ -63,8 +63,8 @@ export const projectsData: Project[] = [
     "SQLite"
   ],
   image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=800",
-  github: "YOUR_GITHUB_LINK",
-  demo: "#",
+  github: "https://github.com/Nathiyajanarthanan/e-district",
+  demo: "https://e-district-client.onrender.com/",
   features: [
     "Online application submission",
     "Document upload management",
