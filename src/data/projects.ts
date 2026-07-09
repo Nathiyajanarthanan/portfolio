@@ -1,30 +1,6 @@
 import { Project } from "../types";
 
 export const projectsData: Project[] = [
-  {
-    id: "ai-placement-prediction",
-    title: "AI Placement Prediction System",
-    description: "An AI-powered system that predicts placement outcomes for students based on their academic performance, skills, and extracurricular activities. Uses machine learning algorithms to provide actionable insights for career planning.",
-    technologies: ["Python", "Machine Learning", "Scikit-Learn", "React", "FastAPI"],
-    image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&q=80&w=800",
-    github: "https://github.com/",
-    demo: "https://demo.com/",
-    features: [
-      "Predicts student placement probability",
-      "Identifies key skill gaps",
-      "Generates personalized learning paths",
-      "Interactive dashboard for faculty"
-    ],
-    challenges: [
-      "Handling imbalanced datasets effectively",
-      "Optimizing the ML model for real-time inference",
-      "Integrating Python backend with React frontend seamlessly"
-    ],
-    screenshots: [
-      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800"
-    ]
-  },
  {
   id: "wayconnect",
   title: "WayConnect Platform",
